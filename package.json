@@ -1,0 +1,27 @@
+{
+  "name": "cancercervico",
+  "version": "1.0.0",
+  "description": "Graphic that shows cervical cancer in Mexico",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robledokari/cancercervico.git"
+  },
+  "keywords": [
+    "cancer",
+    "cervico",
+    "ds3"
+  ],
+  "author": "Karina Robledo Hernandez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robledokari/cancercervico/issues"
+  },
+  "homepage": "https://github.com/robledokari/cancercervico#readme",
+  "dependencies": {
+    "d3": "^5.9.7"
+  }
+}
